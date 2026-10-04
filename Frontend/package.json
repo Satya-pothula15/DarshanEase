@@ -1,0 +1,9 @@
+{
+  "name": "darshanease-website",
+  "version": "1.0.0",
+  "description": "DarshanEase temple darshan booking - static frontend demo",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  }
+}
