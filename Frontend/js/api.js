@@ -4,7 +4,7 @@
    `await apiX(...)` and get back parsed JSON or a thrown Error with a
    friendly .message. */
 
-const API_BASE_URL = "http://localhost:5000/api";
+const API_BASE_URL = "https://darshanease-1-h0by.onrender.com/api";
 
 function getToken() {
   return localStorage.getItem("darshanease_token");
